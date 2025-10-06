@@ -18,3 +18,4 @@
 - **RNF03:** O back-end será desenvolvido em Python com o framework Django, aproveitando sua interface de administração nativa para acelerar o desenvolvimento.
 - **RNF04:** O front-end será desenvolvido com HTML/CSS e Bootstrap para garantir uma interface limpa e responsiva rapidamente.
 - **RNF05:** O banco de dados utilizado será o PostgreSQL.
+https://drive.google.com/file/d/1_uKNwq2AF_n8BcI47nzUI2OmjqR8S9Lj/view?usp=sharing (LINK DO DIAGRAMA)
